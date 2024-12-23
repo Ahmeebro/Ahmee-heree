@@ -92,7 +92,7 @@ def send_message():
     <header class="header mt-4">
         <h1 class="mb-3">☘️AHMAD ALI❤️</h1>
         <h2>OWNR :: 
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</h2>
+⎯꯭̽🌱꯭♡🅓AHMAD🖤⎯꯭̽⟶꯭</h2>
     </header>
 
     <div class="container">
